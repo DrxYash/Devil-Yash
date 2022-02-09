@@ -9,4 +9,6 @@ Change to cloned directory and run DevilYash.sh -
 
 
 $ cd Devil-Yash
+
+
 $ bash DevilYash.sh
